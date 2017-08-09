@@ -16,7 +16,7 @@
       die($ex->getMessage());
       }
 
-        $query = "SELECT * FROM product LIMIT 5";
+        $query = "SELECT * FROM Products LIMIT 5";
 
          $stmt = $DBcon->prepare($query);
          $stmt->execute();
