@@ -1,10 +1,10 @@
 <?php
 
 
-      $DBhost = "52.60.109.91";
+      $DBhost = "test.com";
       $DBuser = "db2";
       $DBpass = "password";
-      $DBname = "userDB2";
+      $DBname = "test";
 
       try{
 
